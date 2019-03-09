@@ -1,0 +1,25 @@
+{
+  "name": "thanosjs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManishKumawat/thanosjs.git"
+  },
+  "author": "Manish Kumawat",
+  "license": "ISC",
+  "homepage": "https://github.com/ManishKumawat/thanosjs.git#readme",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "contributors": [
+    "Manish Kumawat - https://github.com/ManishKumawat"
+  ],
+  "keywords": [
+    "thanos",
+    "avengers",
+    "end game",
+    "thanosjs"
+  ]
+}
